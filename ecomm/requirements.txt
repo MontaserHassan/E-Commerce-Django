@@ -97,4 +97,3 @@ testresources==2.0.1
 trio==0.22.0
 typing-extensions==4.5.0
 urllib3==2.0.2
-yarg==0.1.9
